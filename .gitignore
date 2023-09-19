@@ -1,0 +1,12 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+TODO.md
+logs.txt
+.idea/
+secret.md
+tmp
